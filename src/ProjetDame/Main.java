@@ -1,4 +1,4 @@
-package ProjetDame;
+package src.ProjetDame;
 
 
 public class Main {
