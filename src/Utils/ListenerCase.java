@@ -1,8 +1,9 @@
-package ProjetDame;
+package Utils;
 
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
 
+import ProjetDame.Plateau;
 import model.Case;
 
 //Prise sur internet pour permettre la selection des pions a la souris
