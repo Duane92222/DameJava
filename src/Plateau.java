@@ -1,11 +1,9 @@
-package ProjetDame;
+
 
 import java.awt.GridLayout;
 
 import javax.swing.JPanel;
 
-import Utils.ListenerCase;
-import Utils.ListenerPion;
 import model.Case;
 import model.Couleur;
 import model.Pion;

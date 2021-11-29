@@ -1,9 +1,8 @@
-package Utils;
+
 
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
 
-import ProjetDame.Plateau;
 import model.Pion;
 
 //Prise sur internet pour l'extension awt pour permettre la selection des pions a la souris
